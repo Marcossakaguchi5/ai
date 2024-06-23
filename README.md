@@ -1,13 +1,13 @@
 # Detecção de Doenças em Plantas de Tomate
 
+Este projeto é uma aplicação web desenvolvida com Flask que utiliza o modelo YOLOv8 para detectar doenças em plantas de tomate a partir de imagens. A aplicação permite que os usuários façam upload de imagens de folhas de tomate e retorna previsões sobre possíveis doenças.
+
 ## Equipe
 
 David Marques
 Gabriel Calil
 Luis Ricardo
 Marcos Hideki
-
-Este projeto é uma aplicação web desenvolvida com Flask que utiliza o modelo YOLOv8 para detectar doenças em plantas de tomate a partir de imagens. A aplicação permite que os usuários façam upload de imagens de folhas de tomate e retorna previsões sobre possíveis doenças.
 
 ## Funcionalidades
 
